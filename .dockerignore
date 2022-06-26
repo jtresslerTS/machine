@@ -1,4 +1,4 @@
 docker-machine*
-*.log
+*.logu
 bin
 cover
